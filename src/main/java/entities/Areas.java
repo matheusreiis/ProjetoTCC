@@ -2,58 +2,58 @@ package entities;
 
 public class Areas {
 
-	private  int resultadoEngenhariaDaComputacao;
-	private  int resultadoWebDesign;
-	private  int resultadoEcommerce;
-	private  int resultadoCienciaDaComputacao;
-	private  int resultadoTecnologiaDaInformacao;
-	private  int resultadoAnaliseDeDados;
+	private static int resultadoEngenhariaDeSoftware;
+	private static int resultadoWebDesign;
+	private static int resultadoEcommerce;
+	private static int resultadoCienciaDaComputacao;
+	private static int resultadoTecnologiaDaInformacao;
+	private static int resultadoAnaliseDeDados;
 
-	public int getResultadoEngenhariaDaComputacao() {
-		return resultadoEngenhariaDaComputacao;
+	public static int getResultadoEngenhariaDeSoftware() {
+		return resultadoEngenhariaDeSoftware;
 	}
 
-	public void setResultadoEngenhariaDaComputacao(int resultadoEngenhariaDaComputacao) {
-		this.resultadoEngenhariaDaComputacao = resultadoEngenhariaDaComputacao;
+	public static void setResultadoEngenhariaDeSoftware(int resultadoEngenhariaDeSoftware) {
+		Areas.resultadoEngenhariaDeSoftware = resultadoEngenhariaDeSoftware;
 	}
 
-	public int getResultadoAnaliseDeDados() {
+	public static int getResultadoAnaliseDeDados() {
 		return resultadoAnaliseDeDados;
 	}
 
-	public void setResultadoAnaliseDeDados(int resultadoAnaliseDeDados) {
-		this.resultadoAnaliseDeDados = resultadoAnaliseDeDados;
+	public static void setResultadoAnaliseDeDados(int resultadoAnaliseDeDados) {
+		Areas.resultadoAnaliseDeDados = resultadoAnaliseDeDados;
 	}
 
-	public int getResultadoWebDesign() {
+	public static int getResultadoWebDesign() {
 		return resultadoWebDesign;
 	}
 
-	public void setResultadoWebDesign(int resultadoWebDesign) {
-		this.resultadoWebDesign = resultadoWebDesign;
+	public static void setResultadoWebDesign(int resultadoWebDesign) {
+		Areas.resultadoWebDesign = resultadoWebDesign;
 	}
 
-	public int getResultadoEcommerce() {
+	public static int getResultadoEcommerce() {
 		return resultadoEcommerce;
 	}
 
-	public void setResultadoEcommerce(int resultadoEcommerce) {
-		this.resultadoEcommerce = resultadoEcommerce;
+	public static void setResultadoEcommerce(int resultadoEcommerce) {
+		Areas.resultadoEcommerce = resultadoEcommerce;
 	}
 
-	public int getResultadoCienciaDaComputacao() {
+	public static int getResultadoCienciaDaComputacao() {
 		return resultadoCienciaDaComputacao;
 	}
 
-	public void setResultadoCienciaDaComputacao(int resultadoCienciaDaComputacao) {
-		this.resultadoCienciaDaComputacao = resultadoCienciaDaComputacao;
+	public static void setResultadoCienciaDaComputacao(int resultadoCienciaDaComputacao) {
+		Areas.resultadoCienciaDaComputacao = resultadoCienciaDaComputacao;
 	}
 
-	public int getResultadoTecnologiaDaInformacao() {
+	public static int getResultadoTecnologiaDaInformacao() {
 		return resultadoTecnologiaDaInformacao;
 	}
 
-	public void setResultadoTecnologiaDaInformacao(int resultadoTecnologiaDaInformacao) {
-		this.resultadoTecnologiaDaInformacao = resultadoTecnologiaDaInformacao;
+	public static void setResultadoTecnologiaDaInformacao(int resultadoTecnologiaDaInformacao) {
+		Areas.resultadoTecnologiaDaInformacao = resultadoTecnologiaDaInformacao;
 	}
 }

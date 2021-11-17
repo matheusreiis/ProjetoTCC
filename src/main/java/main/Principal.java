@@ -2,7 +2,7 @@ package main;
 
 import org.apache.log4j.Logger;
 
-import desenvolvimento.PerguntasERespostas;
+import desenvolvimento.PerguntasERespostasObrigatorias;
 
 public class Principal {
 
@@ -10,7 +10,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 
-		PerguntasERespostas perguntasERespostas = new PerguntasERespostas();
+		PerguntasERespostasObrigatorias perguntasERespostas = new PerguntasERespostasObrigatorias();
 
 		LOG.info("########## INICIO DO BACKEND ##########");
 

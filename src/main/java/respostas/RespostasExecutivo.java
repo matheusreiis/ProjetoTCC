@@ -6,57 +6,85 @@ public class RespostasExecutivo {
 
 //	AREAS FORTES DO EXECUTIVO SÃO = ENGENHARIA DA COMPUTAÇÃO, ANALISE DE DADOS E CIENCIA DA COMPUTAÇÃO
 
-	Areas areasTecnologia = new Areas();
-
 	int respostaSim = 6;
 	int respostaNao = 3;
 	int respostaNaoSeiAreaForte = 1;
 	int respostaNaoSeiAreaFraca = 2;
-	int resultadoEngenhariaDaComputacao;
+	int resultadoEngenhariaDeSoftware;
 	int resultadoAnaliseDeDados;
 	int resultadoWebDesign;
 	int resultadoEcommerce;
 	int resultadoCienciaDaComputacao;
 	int resultadoTecnologiaDaInformacao;
-	int repositorioEngenhariaDaComputacao;
-	int repositorioAnaliseDeDados;
-	int repositorioWebDesign;
-	int repositorioEcommerce;
-	int repositorioCienciaDaComputacao;
-	int repositorioTecnologiaDaInformacao;
 
 	public void respostaExecutivo(char acaoResponderPerguntaExecutivo) {
 
 		if (acaoResponderPerguntaExecutivo == 's') {
+			
+			resultadoEngenhariaDeSoftware = Areas.getResultadoEngenhariaDeSoftware() + respostaSim;
+			Areas.setResultadoEngenhariaDeSoftware(resultadoEngenhariaDeSoftware);
+			
+			resultadoAnaliseDeDados = Areas.getResultadoAnaliseDeDados() + respostaSim;
+			Areas.setResultadoAnaliseDeDados(resultadoAnaliseDeDados);
 
-			resultadoEngenhariaDaComputacao = repositorioEngenhariaDaComputacao + respostaSim;
-			resultadoAnaliseDeDados = repositorioAnaliseDeDados + respostaSim;
-			resultadoCienciaDaComputacao = repositorioCienciaDaComputacao + respostaSim;
-			resultadoWebDesign = repositorioWebDesign + respostaNao;
-			resultadoEcommerce = repositorioEcommerce + respostaNao;
-			resultadoTecnologiaDaInformacao = repositorioTecnologiaDaInformacao + respostaNao;
+			resultadoCienciaDaComputacao = Areas.getResultadoCienciaDaComputacao() + respostaSim;
+			Areas.setResultadoCienciaDaComputacao(resultadoCienciaDaComputacao);
+
+			resultadoWebDesign = Areas.getResultadoWebDesign() + respostaNao;
+			Areas.setResultadoWebDesign(resultadoWebDesign);
+
+			resultadoEcommerce = Areas.getResultadoEcommerce() + respostaNao;
+			Areas.setResultadoEcommerce(resultadoEcommerce);
+			
+			resultadoTecnologiaDaInformacao = Areas.getResultadoTecnologiaDaInformacao() + respostaNao;
+			Areas.setResultadoTecnologiaDaInformacao(resultadoTecnologiaDaInformacao);
+
 
 		}
 
 		if (acaoResponderPerguntaExecutivo == 'n') {
 
-			resultadoWebDesign = repositorioWebDesign + respostaSim;
-			resultadoEcommerce = repositorioEcommerce + respostaSim;
-			resultadoTecnologiaDaInformacao = repositorioTecnologiaDaInformacao + respostaSim;
-			resultadoEngenhariaDaComputacao = repositorioEngenhariaDaComputacao + respostaNao;
-			resultadoAnaliseDeDados = repositorioAnaliseDeDados + respostaNao;
-			resultadoCienciaDaComputacao = repositorioCienciaDaComputacao + respostaNao;
+			resultadoWebDesign = Areas.getResultadoWebDesign() + respostaSim;
+			Areas.setResultadoWebDesign(resultadoWebDesign);
+
+			resultadoEcommerce = Areas.getResultadoEcommerce() + respostaSim;
+			Areas.setResultadoEcommerce(resultadoEcommerce);
+			
+			resultadoTecnologiaDaInformacao = Areas.getResultadoTecnologiaDaInformacao() + respostaSim;
+			Areas.setResultadoTecnologiaDaInformacao(resultadoTecnologiaDaInformacao);
+			
+			resultadoEngenhariaDeSoftware = Areas.getResultadoEngenhariaDeSoftware() + respostaNao;
+			Areas.setResultadoEngenhariaDeSoftware(resultadoEngenhariaDeSoftware);
+			
+			resultadoAnaliseDeDados = Areas.getResultadoAnaliseDeDados() + respostaNao;
+			Areas.setResultadoAnaliseDeDados(resultadoAnaliseDeDados);
+
+			resultadoCienciaDaComputacao = Areas.getResultadoCienciaDaComputacao() + respostaNao;
+			Areas.setResultadoCienciaDaComputacao(resultadoCienciaDaComputacao);
+
 
 		}
 
 		if (acaoResponderPerguntaExecutivo == 'k') {
+			
+			resultadoEngenhariaDeSoftware = Areas.getResultadoEngenhariaDeSoftware() + respostaNaoSeiAreaForte;
+			Areas.setResultadoEngenhariaDeSoftware(resultadoEngenhariaDeSoftware);
+			
+			resultadoAnaliseDeDados = Areas.getResultadoAnaliseDeDados() + respostaNaoSeiAreaForte;
+			Areas.setResultadoAnaliseDeDados(resultadoAnaliseDeDados);
 
-			resultadoEngenhariaDaComputacao = repositorioEngenhariaDaComputacao + respostaNaoSeiAreaForte;
-			resultadoAnaliseDeDados = repositorioAnaliseDeDados + respostaNaoSeiAreaForte;
-			resultadoCienciaDaComputacao = repositorioCienciaDaComputacao + respostaNaoSeiAreaForte;
-			resultadoWebDesign = repositorioWebDesign + respostaNaoSeiAreaFraca;
-			resultadoEcommerce = repositorioEcommerce + respostaNaoSeiAreaFraca;
-			resultadoTecnologiaDaInformacao = repositorioTecnologiaDaInformacao + respostaNaoSeiAreaFraca;
+			resultadoCienciaDaComputacao = Areas.getResultadoCienciaDaComputacao() + respostaNaoSeiAreaForte;
+			Areas.setResultadoCienciaDaComputacao(resultadoCienciaDaComputacao);
+
+			resultadoWebDesign = Areas.getResultadoWebDesign() + respostaNaoSeiAreaFraca;
+			Areas.setResultadoWebDesign(resultadoWebDesign);
+
+			resultadoEcommerce = Areas.getResultadoEcommerce() + respostaNaoSeiAreaFraca;
+			Areas.setResultadoEcommerce(resultadoEcommerce);
+			
+			resultadoTecnologiaDaInformacao = Areas.getResultadoTecnologiaDaInformacao() + respostaNaoSeiAreaFraca;
+			Areas.setResultadoTecnologiaDaInformacao(resultadoTecnologiaDaInformacao);
+
 		}
 	}
 }

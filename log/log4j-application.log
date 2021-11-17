@@ -455,3 +455,230 @@
 2021-11-16 20:56:52 INFO  PerguntasERespostas:62 - #### PERGUNTAS IPERSON ####
 2021-11-16 20:56:52 INFO  PerguntasERespostas:65 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
 2021-11-16 20:57:23 INFO  PerguntasERespostas:73 - 0
+2021-11-16 21:47:44 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-16 21:47:44 INFO  PerguntasERespostas:61 - #### PERGUNTAS IPERSON ####
+2021-11-16 21:47:44 INFO  PerguntasERespostas:64 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-16 21:47:46 INFO  PerguntasERespostas:72 - 6
+2021-11-16 21:47:46 INFO  PerguntasERespostas:76 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-16 21:48:30 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-16 21:48:30 INFO  PerguntasERespostas:61 - #### PERGUNTAS IPERSON ####
+2021-11-16 21:48:30 INFO  PerguntasERespostas:64 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-16 21:48:31 INFO  PerguntasERespostas:70 - 6
+2021-11-16 21:48:31 INFO  PerguntasERespostas:74 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-16 21:48:51 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-16 21:48:51 INFO  PerguntasERespostas:61 - #### PERGUNTAS IPERSON ####
+2021-11-16 21:48:51 INFO  PerguntasERespostas:64 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-16 21:52:25 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-16 21:52:25 INFO  PerguntasERespostas:61 - #### PERGUNTAS IPERSON ####
+2021-11-16 21:52:25 INFO  PerguntasERespostas:64 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-16 21:52:26 INFO  PerguntasERespostas:70 - 6
+2021-11-16 21:52:26 INFO  PerguntasERespostas:74 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-16 21:52:27 INFO  PerguntasERespostas:80 - 6
+2021-11-16 21:52:27 INFO  PerguntasERespostas:84 - PERGUNTA 3: Você tem o costume de fazer planos a longo prazo na sua vida?
+2021-11-16 21:54:09 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-16 21:54:09 INFO  PerguntasERespostas:61 - #### PERGUNTAS IPERSON ####
+2021-11-16 21:54:09 INFO  PerguntasERespostas:64 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-16 21:54:10 INFO  PerguntasERespostas:70 - 6
+2021-11-16 21:54:10 INFO  PerguntasERespostas:74 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-16 21:54:11 INFO  PerguntasERespostas:80 - 6
+2021-11-16 21:54:11 INFO  PerguntasERespostas:84 - PERGUNTA 3: Você tem o costume de fazer planos a longo prazo na sua vida?
+2021-11-16 21:55:11 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-16 21:55:11 INFO  PerguntasERespostas:61 - #### PERGUNTAS IPERSON ####
+2021-11-16 21:55:11 INFO  PerguntasERespostas:64 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-16 21:55:13 INFO  PerguntasERespostas:70 - 6
+2021-11-16 21:55:13 INFO  PerguntasERespostas:74 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-16 21:55:14 INFO  PerguntasERespostas:80 - 12
+2021-11-16 21:55:14 INFO  PerguntasERespostas:84 - PERGUNTA 3: Você tem o costume de fazer planos a longo prazo na sua vida?
+2021-11-17 08:42:42 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-17 08:42:42 INFO  PerguntasERespostas:61 - #### PERGUNTAS IPERSON ####
+2021-11-17 08:42:42 INFO  PerguntasERespostas:64 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-17 08:42:45 INFO  PerguntasERespostas:70 - 6
+2021-11-17 08:42:45 INFO  PerguntasERespostas:74 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-17 08:42:46 INFO  PerguntasERespostas:80 - 12
+2021-11-17 08:42:46 INFO  PerguntasERespostas:84 - PERGUNTA 3: Você tem o costume de fazer planos a longo prazo na sua vida?
+2021-11-17 08:42:48 INFO  PerguntasERespostas:93 - PERGUNTA 4: Você acredita que sua autoconfiança seja alta o suficiente para realizar os seus sonhos?
+2021-11-17 08:54:31 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-17 08:54:31 INFO  PerguntasERespostas:61 - #### PERGUNTAS IPERSON ####
+2021-11-17 08:54:31 INFO  PerguntasERespostas:64 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-17 08:55:26 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-17 08:55:26 INFO  PerguntasERespostas:61 - #### PERGUNTAS IPERSON ####
+2021-11-17 08:55:26 INFO  PerguntasERespostas:64 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-17 08:55:28 INFO  PerguntasERespostas:70 - 3
+2021-11-17 08:55:28 INFO  PerguntasERespostas:71 - 6
+2021-11-17 08:55:28 INFO  PerguntasERespostas:72 - 6
+2021-11-17 08:55:28 INFO  PerguntasERespostas:73 - 0
+2021-11-17 08:55:28 INFO  PerguntasERespostas:74 - 3
+2021-11-17 08:55:28 INFO  PerguntasERespostas:75 - 3
+2021-11-17 08:55:28 INFO  PerguntasERespostas:79 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-17 08:55:58 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-17 08:55:58 INFO  PerguntasERespostas:61 - #### PERGUNTAS IPERSON ####
+2021-11-17 08:55:58 INFO  PerguntasERespostas:64 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-17 08:55:59 INFO  PerguntasERespostas:70 - 6
+2021-11-17 08:55:59 INFO  PerguntasERespostas:71 - 6
+2021-11-17 08:55:59 INFO  PerguntasERespostas:72 - 6
+2021-11-17 08:55:59 INFO  PerguntasERespostas:73 - 3
+2021-11-17 08:55:59 INFO  PerguntasERespostas:74 - 3
+2021-11-17 08:55:59 INFO  PerguntasERespostas:75 - 3
+2021-11-17 08:55:59 INFO  PerguntasERespostas:79 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-17 14:37:01 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-17 14:37:01 INFO  PerguntasERespostas:60 - #### PERGUNTAS IPERSON ####
+2021-11-17 14:37:01 INFO  PerguntasERespostas:63 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-17 14:37:31 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-17 14:37:31 INFO  PerguntasERespostas:60 - #### PERGUNTAS IPERSON ####
+2021-11-17 14:37:31 INFO  PerguntasERespostas:63 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-17 14:37:34 INFO  PerguntasERespostas:78 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-17 14:37:36 INFO  PerguntasERespostas:87 - PERGUNTA 3: Você tem o costume de fazer planos a longo prazo na sua vida?
+2021-11-17 14:37:37 INFO  PerguntasERespostas:96 - PERGUNTA 4: Você acredita que sua autoconfiança seja alta o suficiente para realizar os seus sonhos?
+2021-11-17 14:37:37 INFO  PerguntasERespostas:105 - PERGUNTA 5: Você é um pessoa que gosta de ter experiências novas?
+2021-11-17 14:37:37 INFO  PerguntasERespostas:114 - PERGUNTA 6: Você consegue se adaptar facilmente em diferentes ambientes, atividades ou situações?
+2021-11-17 14:37:38 INFO  PerguntasERespostas:123 - PERGUNTA 7: Você ajuda as pessoas sem esperar nada em troca?
+2021-11-17 14:37:38 INFO  PerguntasERespostas:132 - PERGUNTA 8: No dia a dia você tem curiosidade por coisas novas?
+2021-11-17 14:37:39 INFO  PerguntasERespostas:141 - PERGUNTA 9: No dia a dia você tem curiosidade por coisas novas?
+2021-11-17 14:37:40 INFO  PerguntasERespostas:150 - PERGUNTA 10: Você se considera uma pessoa empolgada com suas execuções?
+2021-11-17 14:37:40 INFO  PerguntasERespostas:159 - PERGUNTA 11: Você se socializa facilmente com as pessoas?
+2021-11-17 14:37:40 INFO  PerguntasERespostas:168 - PERGUNTA 12: Você é uma pessoa capaz de compreender facilmente algo que os demais não conseguem?
+2021-11-17 14:37:41 INFO  PerguntasERespostas:177 - PERGUNTA 13: Você se considera uma pessoa com âmbito de liderança?
+2021-11-17 14:37:42 INFO  PerguntasERespostas:186 - PERGUNTA 14: Você é uma pessoa que se auxilia em ajudar sem precisar que os outros perguntem?
+2021-11-17 14:37:43 INFO  PerguntasERespostas:195 - PERGUNTA 15: Ser um líder carismático é importante para você?
+2021-11-17 14:37:45 INFO  PerguntasERespostas:204 - PERGUNTA 16: Nos desafios da sua vida, você resolve com ousadia?
+2021-11-17 14:37:46 INFO  PerguntasERespostas:217 - PERGUNTA 17: Você costuma e tem a curiosidade de analisar os programas que você mexe no dia a dia? 
+2021-11-17 14:37:52 INFO  PerguntasERespostas:233 - PERGUNTA 18: Você acredita que geralmente suas decisões são sempre ações seguidas pelas pessoas no seu dia a dia?
+2021-11-17 14:37:53 INFO  PerguntasERespostas:251 - PERGUNTA 19: 
+2021-11-17 14:37:55 INFO  PerguntasERespostas:667 - PERGUNTA 17: Quando você acessa um site, você olha mais a fundo o design dele?
+2021-11-17 14:38:05 INFO  PerguntasERespostas:683 - PERGUNTA 18: Quando você acessa um site, você olha mais a fundo o design dele?
+2021-11-17 14:38:06 INFO  PerguntasERespostas:701 - PERGUNTA 19: 
+2021-11-17 14:38:06 INFO  PerguntasERespostas:917 - PERGUNTA 17: Você já estudou alguma linguagem de programação?
+2021-11-17 15:18:56 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-17 15:18:56 INFO  PerguntasERespostas:60 - #### PERGUNTAS IPERSON ####
+2021-11-17 15:18:56 INFO  PerguntasERespostas:63 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-17 15:18:58 INFO  PerguntasERespostas:78 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-17 15:18:58 INFO  PerguntasERespostas:87 - PERGUNTA 3: Você tem o costume de fazer planos a longo prazo na sua vida?
+2021-11-17 15:18:59 INFO  PerguntasERespostas:96 - PERGUNTA 4: Você acredita que sua autoconfiança seja alta o suficiente para realizar os seus sonhos?
+2021-11-17 15:18:59 INFO  PerguntasERespostas:105 - PERGUNTA 5: Você é um pessoa que gosta de ter experiências novas?
+2021-11-17 15:18:59 INFO  PerguntasERespostas:114 - PERGUNTA 6: Você consegue se adaptar facilmente em diferentes ambientes, atividades ou situações?
+2021-11-17 15:19:00 INFO  PerguntasERespostas:123 - PERGUNTA 7: Você ajuda as pessoas sem esperar nada em troca?
+2021-11-17 15:19:00 INFO  PerguntasERespostas:132 - PERGUNTA 8: No dia a dia você tem curiosidade por coisas novas?
+2021-11-17 15:19:01 INFO  PerguntasERespostas:141 - PERGUNTA 9: No dia a dia você tem curiosidade por coisas novas?
+2021-11-17 15:19:01 INFO  PerguntasERespostas:150 - PERGUNTA 10: Você se considera uma pessoa empolgada com suas execuções?
+2021-11-17 15:19:02 INFO  PerguntasERespostas:159 - PERGUNTA 11: Você se socializa facilmente com as pessoas?
+2021-11-17 15:19:02 INFO  PerguntasERespostas:168 - PERGUNTA 12: Você é uma pessoa capaz de compreender facilmente algo que os demais não conseguem?
+2021-11-17 15:19:03 INFO  PerguntasERespostas:177 - PERGUNTA 13: Você se considera uma pessoa com âmbito de liderança?
+2021-11-17 15:19:03 INFO  PerguntasERespostas:186 - PERGUNTA 14: Você é uma pessoa que se auxilia em ajudar sem precisar que os outros perguntem?
+2021-11-17 15:19:04 INFO  PerguntasERespostas:195 - PERGUNTA 15: Ser um líder carismático é importante para você?
+2021-11-17 15:19:04 INFO  PerguntasERespostas:204 - PERGUNTA 16: Nos desafios da sua vida, você resolve com ousadia?
+2021-11-17 15:19:05 INFO  PerguntasERespostas:220 - PERGUNTA 17: Você costuma e tem a curiosidade de analisar os programas que você mexe no dia a dia? 
+2021-11-17 15:19:06 INFO  PerguntasERespostas:236 - PERGUNTA 18: Você acredita que geralmente suas decisões são sempre ações seguidas pelas pessoas no seu dia a dia?
+2021-11-17 15:19:10 INFO  PerguntasERespostas:254 - PERGUNTA 19: 
+2021-11-17 15:19:15 INFO  PerguntasERespostas:670 - PERGUNTA 17: Quando você acessa um site, você olha mais a fundo o design dele?
+2021-11-17 15:19:17 INFO  PerguntasERespostas:686 - PERGUNTA 18: Quando você acessa um site, você olha mais a fundo o design dele?
+2021-11-17 15:19:18 INFO  PerguntasERespostas:704 - PERGUNTA 19: 
+2021-11-17 15:19:20 INFO  PerguntasERespostas:920 - PERGUNTA 17: Você já estudou alguma linguagem de programação?
+2021-11-17 15:19:22 INFO  PerguntasERespostas:936 - PERGUNTA 18: Em seu computador ou celular, você mantem os seus dados e seus aplicativos de forma organizada?
+2021-11-17 15:19:22 INFO  PerguntasERespostas:954 - PERGUNTA 19: 
+2021-11-17 15:19:23 INFO  PerguntasERespostas:967 - ### FIM DAS PERGUNTAS ###
+2021-11-17 15:19:29 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-17 15:19:29 INFO  PerguntasERespostas:60 - #### PERGUNTAS IPERSON ####
+2021-11-17 15:19:29 INFO  PerguntasERespostas:63 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-17 15:19:34 INFO  PerguntasERespostas:78 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-17 15:19:34 INFO  PerguntasERespostas:87 - PERGUNTA 3: Você tem o costume de fazer planos a longo prazo na sua vida?
+2021-11-17 15:19:34 INFO  PerguntasERespostas:96 - PERGUNTA 4: Você acredita que sua autoconfiança seja alta o suficiente para realizar os seus sonhos?
+2021-11-17 15:19:35 INFO  PerguntasERespostas:105 - PERGUNTA 5: Você é um pessoa que gosta de ter experiências novas?
+2021-11-17 15:19:35 INFO  PerguntasERespostas:114 - PERGUNTA 6: Você consegue se adaptar facilmente em diferentes ambientes, atividades ou situações?
+2021-11-17 15:19:35 INFO  PerguntasERespostas:123 - PERGUNTA 7: Você ajuda as pessoas sem esperar nada em troca?
+2021-11-17 15:19:36 INFO  PerguntasERespostas:132 - PERGUNTA 8: No dia a dia você tem curiosidade por coisas novas?
+2021-11-17 15:19:36 INFO  PerguntasERespostas:141 - PERGUNTA 9: No dia a dia você tem curiosidade por coisas novas?
+2021-11-17 15:19:36 INFO  PerguntasERespostas:150 - PERGUNTA 10: Você se considera uma pessoa empolgada com suas execuções?
+2021-11-17 15:19:37 INFO  PerguntasERespostas:159 - PERGUNTA 11: Você se socializa facilmente com as pessoas?
+2021-11-17 15:19:37 INFO  PerguntasERespostas:168 - PERGUNTA 12: Você é uma pessoa capaz de compreender facilmente algo que os demais não conseguem?
+2021-11-17 15:19:37 INFO  PerguntasERespostas:177 - PERGUNTA 13: Você se considera uma pessoa com âmbito de liderança?
+2021-11-17 15:19:37 INFO  PerguntasERespostas:186 - PERGUNTA 14: Você é uma pessoa que se auxilia em ajudar sem precisar que os outros perguntem?
+2021-11-17 15:19:38 INFO  PerguntasERespostas:195 - PERGUNTA 15: Ser um líder carismático é importante para você?
+2021-11-17 15:19:38 INFO  PerguntasERespostas:204 - PERGUNTA 16: Nos desafios da sua vida, você resolve com ousadia?
+2021-11-17 15:19:38 INFO  PerguntasERespostas:220 - PERGUNTA 17: Você costuma e tem a curiosidade de analisar os programas que você mexe no dia a dia? 
+2021-11-17 15:19:39 INFO  PerguntasERespostas:236 - PERGUNTA 18: Você acredita que geralmente suas decisões são sempre ações seguidas pelas pessoas no seu dia a dia?
+2021-11-17 15:19:41 INFO  PerguntasERespostas:254 - PERGUNTA 19: 
+2021-11-17 15:19:42 INFO  PerguntasERespostas:670 - PERGUNTA 17: Quando você acessa um site, você olha mais a fundo o design dele?
+2021-11-17 15:19:44 INFO  PerguntasERespostas:686 - PERGUNTA 18: Quando você acessa um site, você olha mais a fundo o design dele?
+2021-11-17 15:19:45 INFO  PerguntasERespostas:820 - PERGUNTA 17: Você acredita que sua estratégia profissionalmente seja forte?
+2021-11-17 15:19:47 INFO  PerguntasERespostas:836 - PERGUNTA 18: Você já estudou alguma linguagem de programação?
+2021-11-17 15:19:48 INFO  PerguntasERespostas:854 - PERGUNTA 19: 
+2021-11-17 15:19:49 INFO  PerguntasERespostas:967 - ### FIM DAS PERGUNTAS ###
+2021-11-17 15:27:10 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-17 15:27:10 INFO  PerguntasERespostas:60 - #### PERGUNTAS IPERSON ####
+2021-11-17 15:27:10 INFO  PerguntasERespostas:63 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-17 15:27:13 INFO  PerguntasERespostas:78 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-17 15:27:13 INFO  PerguntasERespostas:87 - PERGUNTA 3: Você tem o costume de fazer planos a longo prazo na sua vida?
+2021-11-17 15:27:13 INFO  PerguntasERespostas:96 - PERGUNTA 4: Você acredita que sua autoconfiança seja alta o suficiente para realizar os seus sonhos?
+2021-11-17 15:27:13 INFO  PerguntasERespostas:105 - PERGUNTA 5: Você é um pessoa que gosta de ter experiências novas?
+2021-11-17 15:27:14 INFO  PerguntasERespostas:114 - PERGUNTA 6: Você consegue se adaptar facilmente em diferentes ambientes, atividades ou situações?
+2021-11-17 15:27:14 INFO  PerguntasERespostas:123 - PERGUNTA 7: Você ajuda as pessoas sem esperar nada em troca?
+2021-11-17 15:27:14 INFO  PerguntasERespostas:132 - PERGUNTA 8: No dia a dia você tem curiosidade por coisas novas?
+2021-11-17 15:27:14 INFO  PerguntasERespostas:141 - PERGUNTA 9: No dia a dia você tem curiosidade por coisas novas?
+2021-11-17 15:27:14 INFO  PerguntasERespostas:150 - PERGUNTA 10: Você se considera uma pessoa empolgada com suas execuções?
+2021-11-17 15:27:15 INFO  PerguntasERespostas:159 - PERGUNTA 11: Você se socializa facilmente com as pessoas?
+2021-11-17 15:27:15 INFO  PerguntasERespostas:168 - PERGUNTA 12: Você é uma pessoa capaz de compreender facilmente algo que os demais não conseguem?
+2021-11-17 15:27:16 INFO  PerguntasERespostas:177 - PERGUNTA 13: Você se considera uma pessoa com âmbito de liderança?
+2021-11-17 15:27:16 INFO  PerguntasERespostas:186 - PERGUNTA 14: Você é uma pessoa que se auxilia em ajudar sem precisar que os outros perguntem?
+2021-11-17 15:27:17 INFO  PerguntasERespostas:195 - PERGUNTA 15: Ser um líder carismático é importante para você?
+2021-11-17 15:27:17 INFO  PerguntasERespostas:204 - PERGUNTA 16: Nos desafios da sua vida, você resolve com ousadia?
+2021-11-17 15:27:18 INFO  PerguntasERespostas:220 - PERGUNTA 17: Você costuma e tem a curiosidade de analisar os programas que você mexe no dia a dia? 
+2021-11-17 15:27:20 INFO  PerguntasERespostas:236 - PERGUNTA 18: Você acredita que geralmente suas decisões são sempre ações seguidas pelas pessoas no seu dia a dia?
+2021-11-17 15:27:22 INFO  PerguntasERespostas:270 - PERGUNTA 17: Você costuma e tem a curiosidade de analisar os programas que você mexe no dia a dia? 
+2021-11-17 15:27:23 INFO  PerguntasERespostas:286 - PERGUNTA 18: Quando você acessa um site, você olha mais a fundo o design dele?
+2021-11-17 15:27:24 INFO  PerguntasERespostas:670 - PERGUNTA 17: Quando você acessa um site, você olha mais a fundo o design dele?
+2021-11-17 15:27:25 INFO  PerguntasERespostas:686 - PERGUNTA 18: Quando você acessa um site, você olha mais a fundo o design dele?
+2021-11-17 15:27:25 INFO  PerguntasERespostas:704 - PERGUNTA 19: 
+2021-11-17 15:27:28 INFO  PerguntasERespostas:920 - PERGUNTA 17: Você já estudou alguma linguagem de programação?
+2021-11-17 15:27:29 INFO  PerguntasERespostas:936 - PERGUNTA 18: Em seu computador ou celular, você mantem os seus dados e seus aplicativos de forma organizada?
+2021-11-17 15:27:34 INFO  PerguntasERespostas:967 - ### FIM DAS PERGUNTAS ###
+2021-11-17 15:28:47 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-17 15:28:47 INFO  PerguntasERespostas:61 - #### PERGUNTAS IPERSON ####
+2021-11-17 15:28:47 INFO  PerguntasERespostas:64 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-17 15:28:49 INFO  PerguntasERespostas:73 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-17 15:28:49 INFO  PerguntasERespostas:82 - PERGUNTA 3: Você tem o costume de fazer planos a longo prazo na sua vida?
+2021-11-17 15:28:49 INFO  PerguntasERespostas:91 - PERGUNTA 4: Você acredita que sua autoconfiança seja alta o suficiente para realizar os seus sonhos?
+2021-11-17 15:28:49 INFO  PerguntasERespostas:100 - PERGUNTA 5: Você é um pessoa que gosta de ter experiências novas?
+2021-11-17 15:28:49 INFO  PerguntasERespostas:109 - PERGUNTA 6: Você consegue se adaptar facilmente em diferentes ambientes, atividades ou situações?
+2021-11-17 15:28:49 INFO  PerguntasERespostas:118 - PERGUNTA 7: Você ajuda as pessoas sem esperar nada em troca?
+2021-11-17 15:28:50 INFO  PerguntasERespostas:127 - PERGUNTA 8: No dia a dia você tem curiosidade por coisas novas?
+2021-11-17 15:28:50 INFO  PerguntasERespostas:136 - PERGUNTA 9: No dia a dia você tem curiosidade por coisas novas?
+2021-11-17 15:28:50 INFO  PerguntasERespostas:145 - PERGUNTA 10: Você se considera uma pessoa empolgada com suas execuções?
+2021-11-17 15:28:50 INFO  PerguntasERespostas:154 - PERGUNTA 11: Você se socializa facilmente com as pessoas?
+2021-11-17 15:28:50 INFO  PerguntasERespostas:163 - PERGUNTA 12: Você é uma pessoa capaz de compreender facilmente algo que os demais não conseguem?
+2021-11-17 15:28:50 INFO  PerguntasERespostas:172 - PERGUNTA 13: Você se considera uma pessoa com âmbito de liderança?
+2021-11-17 15:28:51 INFO  PerguntasERespostas:181 - PERGUNTA 14: Você é uma pessoa que se auxilia em ajudar sem precisar que os outros perguntem?
+2021-11-17 15:28:51 INFO  PerguntasERespostas:190 - PERGUNTA 15: Ser um líder carismático é importante para você?
+2021-11-17 15:28:55 INFO  PerguntasERespostas:199 - PERGUNTA 16: Nos desafios da sua vida, você resolve com ousadia?
+2021-11-17 15:28:56 INFO  PerguntasERespostas:215 - PERGUNTA 17: Você costuma e tem a curiosidade de analisar os programas que você mexe no dia a dia? 
+2021-11-17 15:28:57 INFO  PerguntasERespostas:231 - PERGUNTA 18: Você acredita que geralmente suas decisões são sempre ações seguidas pelas pessoas no seu dia a dia?
+2021-11-17 15:28:57 INFO  PerguntasERespostas:249 - PERGUNTA 19: 
+2021-11-17 15:28:59 INFO  PerguntasERespostas:665 - PERGUNTA 17: Quando você acessa um site, você olha mais a fundo o design dele?
+2021-11-17 15:29:01 INFO  PerguntasERespostas:681 - PERGUNTA 18: Quando você acessa um site, você olha mais a fundo o design dele?
+2021-11-17 15:29:01 INFO  PerguntasERespostas:699 - PERGUNTA 19: 
+2021-11-17 15:29:01 INFO  PerguntasERespostas:915 - PERGUNTA 17: Você já estudou alguma linguagem de programação?
+2021-11-17 15:29:01 INFO  PerguntasERespostas:931 - PERGUNTA 18: Em seu computador ou celular, você mantem os seus dados e seus aplicativos de forma organizada?
+2021-11-17 15:29:03 INFO  PerguntasERespostas:962 - ### FIM DAS PERGUNTAS ###
+2021-11-17 15:29:03 INFO  PerguntasERespostas:964 - 75
+2021-11-17 15:29:03 INFO  PerguntasERespostas:965 - 72
+2021-11-17 15:29:03 INFO  PerguntasERespostas:966 - 75
+2021-11-17 15:29:03 INFO  PerguntasERespostas:967 - 69
+2021-11-17 15:29:03 INFO  PerguntasERespostas:968 - 69
+2021-11-17 15:29:03 INFO  PerguntasERespostas:969 - 72
+2021-11-17 15:30:35 INFO  Principal:15 - ########## INICIO DO BACKEND ##########
+2021-11-17 15:30:35 INFO  PerguntasERespostas:61 - #### PERGUNTAS IPERSON ####
+2021-11-17 15:30:35 INFO  PerguntasERespostas:64 - PERGUNTA 1: Você se considera uma pessoa responsável com as suas tarefas do dia a dia?
+2021-11-17 15:30:37 INFO  PerguntasERespostas:73 - PERGUNTA 2: Ter empatia com as outras pessoas é importante para você?
+2021-11-17 15:30:39 INFO  PerguntasERespostas:82 - PERGUNTA 3: Você tem o costume de fazer planos a longo prazo na sua vida?
+2021-11-17 15:30:40 INFO  PerguntasERespostas:91 - PERGUNTA 4: Você acredita que sua autoconfiança seja alta o suficiente para realizar os seus sonhos?
+2021-11-17 15:30:40 INFO  PerguntasERespostas:100 - PERGUNTA 5: Você é um pessoa que gosta de ter experiências novas?
+2021-11-17 15:30:40 INFO  PerguntasERespostas:109 - PERGUNTA 6: Você consegue se adaptar facilmente em diferentes ambientes, atividades ou situações?
+2021-11-17 15:30:41 INFO  PerguntasERespostas:118 - PERGUNTA 7: Você ajuda as pessoas sem esperar nada em troca?
+2021-11-17 15:30:41 INFO  PerguntasERespostas:127 - PERGUNTA 8: No dia a dia você tem curiosidade por coisas novas?
+2021-11-17 15:30:42 INFO  PerguntasERespostas:136 - PERGUNTA 9: No dia a dia você tem curiosidade por coisas novas?
+2021-11-17 15:30:42 INFO  PerguntasERespostas:145 - PERGUNTA 10: Você se considera uma pessoa empolgada com suas execuções?
+2021-11-17 15:30:42 INFO  PerguntasERespostas:154 - PERGUNTA 11: Você se socializa facilmente com as pessoas?
+2021-11-17 15:30:44 INFO  PerguntasERespostas:163 - PERGUNTA 12: Você é uma pessoa capaz de compreender facilmente algo que os demais não conseguem?
+2021-11-17 15:30:44 INFO  PerguntasERespostas:172 - PERGUNTA 13: Você se considera uma pessoa com âmbito de liderança?
+2021-11-17 15:30:45 INFO  PerguntasERespostas:181 - PERGUNTA 14: Você é uma pessoa que se auxilia em ajudar sem precisar que os outros perguntem?
+2021-11-17 15:30:46 INFO  PerguntasERespostas:190 - PERGUNTA 15: Ser um líder carismático é importante para você?
+2021-11-17 15:30:46 INFO  PerguntasERespostas:199 - PERGUNTA 16: Nos desafios da sua vida, você resolve com ousadia?
