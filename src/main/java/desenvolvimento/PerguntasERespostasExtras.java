@@ -26,7 +26,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoAnaliseDeDados()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaEngenhariaDeSoftwareExtra);
 			char acaoResponderPerguntaEngenhariaDeSoftwareExtra = sc.next().charAt(0);
 
@@ -48,7 +47,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoAnaliseDeDados(resultadoAnaliseDeDados);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaAnaliseDeDadosExtra);
 			char acaoResponderPerguntaAnaliseDeDadosExtra = sc.next().charAt(0);
 
@@ -72,7 +70,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoAnaliseDeDados()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaEngenhariaEAnalise);
 				char acaoResponderPerguntaEngenhariaEAnaliseExtra = sc.next().charAt(0);
 
@@ -92,7 +89,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoWebDesign()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaEngenhariaDeSoftwareExtra);
 			char acaoResponderPerguntaEngenhariaDeSoftwarextra = sc.next().charAt(0);
 
@@ -114,7 +110,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoWebDesign(resultadoWebDesign);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaWebDesignExtra);
 			char acaoResponderPerguntaWebDesignExtra = sc.next().charAt(0);
 
@@ -138,7 +133,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoWebDesign()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaEngenhariaEWeb);
 				char acaoResponderPerguntaEngenhariaEWebExtra = sc.next().charAt(0);
 
@@ -158,7 +152,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoEcommerce()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaEngenhariaDeSoftwareExtra);
 			char acaoResponderPerguntaEngenhariaDeSoftwareExtra = sc.next().charAt(0);
 
@@ -180,7 +173,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoEcommerce(resultadoEcommerce);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaEcommerceExtra);
 			char acaoResponderPerguntaEcommerceExtra = sc.next().charAt(0);
 
@@ -204,7 +196,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoEcommerce()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaEngenhariaEEcommerce);
 				char acaoResponderPerguntaEngenhariaEEcommerceExtra = sc.next().charAt(0);
 
@@ -224,7 +215,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoCienciaDaComputacao()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaEngenhariaDeSoftwareExtra);
 			char acaoResponderPerguntaEngenhariaDeSoftwareExtra = sc.next().charAt(0);
 
@@ -246,7 +236,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoCienciaDaComputacao(resultadoCienciaDaComputacao);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaCienciaDaComputacaoExtra);
 			char acaoResponderPerguntaCienciaDaComputacaoExtra = sc.next().charAt(0);
 
@@ -270,7 +259,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoCienciaDaComputacao()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaEngenhariaECiencia);
 				char acaoResponderPerguntaEngenhariaECienciaExtra = sc.next().charAt(0);
 
@@ -290,7 +278,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoTecnologiaDaInformacao()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaEngenhariaDeSoftwareExtra);
 			char acaoResponderPerguntaEngenhariaDeSoftwareExtra = sc.next().charAt(0);
 
@@ -312,7 +299,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoTecnologiaDaInformacao(resultadoTecnologiaDaInformacao);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaTecnologiaDaInformacaoExtra);
 			char acaoResponderPerguntaTecnologiaDaInformacaoExtra = sc.next().charAt(0);
 
@@ -336,7 +322,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoTecnologiaDaInformacao()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaEngenhariaETecnologia);
 				char acaoResponderPerguntaEngenhariaETecnologiaExtra = sc.next().charAt(0);
 
@@ -356,7 +341,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoAnaliseDeDados() == Areas.getResultadoWebDesign()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaAnaliseDeDadosExtra);
 			char acaoResponderPerguntaAnaliseDeDadosExtra = sc.next().charAt(0);
 
@@ -378,7 +362,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoWebDesign(resultadoWebDesign);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaWebDesignExtra);
 			char acaoResponderPerguntaWebDesignExtra = sc.next().charAt(0);
 
@@ -402,7 +385,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoAnaliseDeDados() == Areas.getResultadoWebDesign()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaAnaliseEWeb);
 				char acaoPerguntaAnaliseEWebExtra = sc.next().charAt(0);
 
@@ -422,7 +404,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoAnaliseDeDados() == Areas.getResultadoEcommerce()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaAnaliseDeDadosExtra);
 			char acaoResponderPerguntaAnaliseDeDadosExtra = sc.next().charAt(0);
 
@@ -444,7 +425,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoEcommerce(resultadoEcommerce);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaEcommerceExtra);
 			char acaoResponderPerguntaEcommerceExtra = sc.next().charAt(0);
 
@@ -468,7 +448,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoAnaliseDeDados() == Areas.getResultadoEcommerce()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaAnaliseEEcommerce);
 				char acaoPerguntaAnaliseEEcommerceExtra = sc.next().charAt(0);
 
@@ -488,7 +467,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoAnaliseDeDados() == Areas.getResultadoCienciaDaComputacao()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaAnaliseDeDadosExtra);
 			char acaoResponderPerguntaAnaliseDeDadosExtra = sc.next().charAt(0);
 
@@ -510,7 +488,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoCienciaDaComputacao(resultadoCienciaDaComputacao);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaCienciaDaComputacaoExtra);
 			char acaoResponderPerguntaCienciaDaComputacaoExtra = sc.next().charAt(0);
 
@@ -534,7 +511,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoAnaliseDeDados() == Areas.getResultadoCienciaDaComputacao()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaAnaliseECiencia);
 				char acaoPerguntaAnaliseECienciaExtra = sc.next().charAt(0);
 
@@ -554,7 +530,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoAnaliseDeDados() == Areas.getResultadoTecnologiaDaInformacao()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaAnaliseDeDadosExtra);
 			char acaoResponderPerguntaAnaliseDeDadosExtra = sc.next().charAt(0);
 
@@ -576,7 +551,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoTecnologiaDaInformacao(resultadoTecnologiaDaInformacao);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaTecnologiaDaInformacaoExtra);
 			char acaoResponderPerguntaTecnologiaDaInformacaoExtraExtra = sc.next().charAt(0);
 
@@ -600,7 +574,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoAnaliseDeDados() == Areas.getResultadoTecnologiaDaInformacao()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaAnaliseETecnologia);
 				char acaoPerguntaAnaliseETecnologiaExtra = sc.next().charAt(0);
 
@@ -619,7 +592,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoWebDesign() == Areas.getResultadoEcommerce()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaWebDesignExtra);
 			char acaoResponderPerguntaWebDesignExtra = sc.next().charAt(0);
 
@@ -641,7 +613,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoEcommerce(resultadoEcommerce);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaWebDesignExtra);
 			char acaoResponderPerguntaEcommerceExtra = sc.next().charAt(0);
 
@@ -665,7 +636,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoWebDesign() == Areas.getResultadoEcommerce()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaWebEEcommerce);
 				char acaoPerguntaWebDesignECommerceExtra = sc.next().charAt(0);
 
@@ -685,7 +655,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoWebDesign() == Areas.getResultadoCienciaDaComputacao()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaWebDesignExtra);
 			char acaoResponderPerguntaWebDesignExtra = sc.next().charAt(0);
 
@@ -707,7 +676,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoCienciaDaComputacao(resultadoCienciaDaComputacao);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaCienciaDaComputacaoExtra);
 			char acaoResponderPerguntaCienciaDaComputacaoExtra = sc.next().charAt(0);
 
@@ -731,7 +699,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoWebDesign() == Areas.getResultadoCienciaDaComputacao()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaWebECiencia);
 				char acaoPerguntaWebECienciaExtra = sc.next().charAt(0);
 
@@ -751,7 +718,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoWebDesign() == Areas.getResultadoTecnologiaDaInformacao()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaWebDesignExtra);
 			char acaoResponderPerguntaWebDesignExtra = sc.next().charAt(0);
 
@@ -773,7 +739,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoTecnologiaDaInformacao(resultadoTecnologiaDaInformacao);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaTecnologiaDaInformacaoExtra);
 			char acaoResponderPerguntaTecnologiaDaInformacaoExtra = sc.next().charAt(0);
 
@@ -797,7 +762,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoWebDesign() == Areas.getResultadoTecnologiaDaInformacao()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaWebETecnologia);
 				char acaoPerguntaWebETecnologiaExtra = sc.next().charAt(0);
 
@@ -817,7 +781,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoEcommerce() == Areas.getResultadoCienciaDaComputacao()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaEcommerceExtra);
 			char acaoResponderPerguntaEcommerceExtra = sc.next().charAt(0);
 
@@ -839,7 +802,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoCienciaDaComputacao(resultadoCienciaDaComputacao);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaCienciaDaComputacaoExtra);
 			char acaoResponderPerguntaCienciaDaComputacaoExtra = sc.next().charAt(0);
 
@@ -863,7 +825,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoEcommerce() == Areas.getResultadoCienciaDaComputacao()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaEcommerceECiencia);
 				char acaoPerguntaEcommerceECienciaExtra = sc.next().charAt(0);
 
@@ -883,7 +844,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoEcommerce() == Areas.getResultadoTecnologiaDaInformacao()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaEcommerceExtra);
 			char acaoResponderPerguntaEcommerceExtra = sc.next().charAt(0);
 
@@ -905,7 +865,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoTecnologiaDaInformacao(resultadoTecnologiaDaInformacao);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaTecnologiaDaInformacaoExtra);
 			char acaoResponderPerguntaTecnologiaDaInformacaoExtra = sc.next().charAt(0);
 
@@ -929,7 +888,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoEcommerce() == Areas.getResultadoTecnologiaDaInformacao()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaEcommerceETecnologia);
 				char acaoPerguntaEcommerceETecnologiaExtra = sc.next().charAt(0);
 
@@ -949,7 +907,6 @@ public class PerguntasERespostasExtras {
 
 		if (Areas.getResultadoCienciaDaComputacao() == Areas.getResultadoTecnologiaDaInformacao()) {
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 17: " + perguntasExtras.perguntaCienciaDaComputacaoExtra);
 			char acaoResponderPerguntaCienciaDaComputacaoExtra = sc.next().charAt(0);
 
@@ -972,7 +929,6 @@ public class PerguntasERespostasExtras {
 				Areas.setResultadoTecnologiaDaInformacao(resultadoTecnologiaDaInformacao);
 			}
 
-			System.lineSeparator();
 			LOG.info("PERGUNTA 18: " + perguntasExtras.perguntaTecnologiaDaInformacaoExtra);
 			char acaoResponderPerguntaTecnologiaDaInformacaoExtra = sc.next().charAt(0);
 
@@ -996,7 +952,6 @@ public class PerguntasERespostasExtras {
 
 			if (Areas.getResultadoCienciaDaComputacao() == Areas.getResultadoTecnologiaDaInformacao()) {
 
-				System.lineSeparator();
 				LOG.info("PERGUNTA 19: " + perguntasExtras.perguntaCienciaETecnologia);
 				char acaoPerguntaCienciaETecnologiaExtra = sc.next().charAt(0);
 
@@ -1014,8 +969,7 @@ public class PerguntasERespostasExtras {
 			}
 		}
 
-		resultados.resultadosPersonalidades(resultadoEngenhariaDeSoftware, resultadoAnaliseDeDados, resultadoWebDesign,
-				resultadoEcommerce, resultadoCienciaDaComputacao, resultadoTecnologiaDaInformacao);
+		resultados.resultadosPersonalidades();
 	}
 
 }

@@ -59,7 +59,6 @@ public class PerguntasERespostasObrigatorias {
 
 		LOG.info("#### PERGUNTAS IPERSON ####");
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 1: " + perguntasObrigatorias.perguntaLogistico);
 		char acaoResponderPerguntaLogistico = sc.next().charAt(0);
 
@@ -68,7 +67,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasLogistico.respostaLogistico(acaoResponderPerguntaLogistico);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 2: " + perguntasObrigatorias.perguntaDefensor);
 		char acaoResponderPerguntaDefensor = sc.next().charAt(0);
 
@@ -77,7 +75,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasDefensor.respostaDefensor(acaoResponderPerguntaDefensor);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 3: " + perguntasObrigatorias.perguntaAdvogado);
 		char acaoResponderPerguntaAdvogado = sc.next().charAt(0);
 
@@ -86,7 +83,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasAdvogado.respostaAdvogado(acaoResponderPerguntaAdvogado);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 4: " + perguntasObrigatorias.perguntaArquiteto);
 		char acaoResponderPerguntaArquiteto = sc.next().charAt(0);
 
@@ -95,7 +91,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasArquiteto.respostaArquiteto(acaoResponderPerguntaArquiteto);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 5: " + perguntasObrigatorias.perguntaVirtuoso);
 		char acaoResponderPerguntaVirtuoso = sc.next().charAt(0);
 
@@ -104,7 +99,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasVirtuoso.respostaVirtuoso(acaoResponderPerguntaVirtuoso);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 6: " + perguntasObrigatorias.perguntaAventureiro);
 		char acaoResponderPerguntaAventureiro = sc.next().charAt(0);
 
@@ -113,7 +107,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasAventureiro.respostaAventureiro(acaoResponderPerguntaAventureiro);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 7: " + perguntasObrigatorias.perguntaMediador);
 		char acaoResponderPerguntaMediador = sc.next().charAt(0);
 
@@ -122,7 +115,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasMediador.respostaMediador(acaoResponderPerguntaMediador);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 8: " + perguntasObrigatorias.perguntaLogico);
 		char acaoResponderPerguntaLogico = sc.next().charAt(0);
 
@@ -131,7 +123,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasLogico.respostaLogico(acaoResponderPerguntaLogico);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 9: " + perguntasObrigatorias.perguntaLogico);
 		char acaoResponderPerguntaEmpresario = sc.next().charAt(0);
 
@@ -140,7 +131,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasEmpresario.respostaEmpresario(acaoResponderPerguntaEmpresario);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 10: " + perguntasObrigatorias.perguntaAnimador);
 		char acaoResponderPerguntaAnimador = sc.next().charAt(0);
 
@@ -149,7 +139,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasAnimador.respostaAnimador(acaoResponderPerguntaAnimador);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 11: " + perguntasObrigatorias.perguntaAtivista);
 		char acaoResponderPerguntaAtivista = sc.next().charAt(0);
 
@@ -158,7 +147,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasAtivista.respostaAtivista(acaoResponderPerguntaAtivista);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 12: " + perguntasObrigatorias.perguntaInovador);
 		char acaoResponderPerguntaInovador = sc.next().charAt(0);
 
@@ -167,7 +155,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasInovador.respostaInovador(acaoResponderPerguntaInovador);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 13: " + perguntasObrigatorias.perguntaExecutivo);
 		char acaoResponderPerguntaExecutivo = sc.next().charAt(0);
 
@@ -176,7 +163,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasExecutivo.respostaExecutivo(acaoResponderPerguntaExecutivo);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 14: " + perguntasObrigatorias.perguntaConsul);
 		char acaoResponderPerguntaConsul = sc.next().charAt(0);
 
@@ -185,7 +171,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasConsul.respostaConsul(acaoResponderPerguntaConsul);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 15: " + perguntasObrigatorias.perguntaProtagonista);
 		char acaoResponderPerguntaProtagonista = sc.next().charAt(0);
 
@@ -194,7 +179,6 @@ public class PerguntasERespostasObrigatorias {
 			respostasProtagonista.respostaProtagonista(acaoResponderPerguntaProtagonista);
 		}
 
-		System.lineSeparator();
 		LOG.info("PERGUNTA 16: " + perguntasObrigatorias.perguntaComandante);
 		char acaoResponderPerguntaComandante = sc.next().charAt(0);
 
@@ -202,22 +186,35 @@ public class PerguntasERespostasObrigatorias {
 				|| acaoResponderPerguntaComandante == 'k') {
 			respostasComandante.respostaComandante(acaoResponderPerguntaComandante);
 		}
-		
+
 		LOG.info("### FIM DAS PERGUNTAS OBRIGATORIAS ###");
-		
-		if () {
-		perguntasExtras.perguntasERespostasExtras();
 
+		if (Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoAnaliseDeDados()
+				|| Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoWebDesign()
+				|| Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoEcommerce()
+				|| Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoCienciaDaComputacao()
+				|| Areas.getResultadoEngenhariaDeSoftware() == Areas.getResultadoTecnologiaDaInformacao()
+				|| Areas.getResultadoAnaliseDeDados() == Areas.getResultadoWebDesign()
+				|| Areas.getResultadoAnaliseDeDados() == Areas.getResultadoEcommerce()
+				|| Areas.getResultadoAnaliseDeDados() == Areas.getResultadoCienciaDaComputacao()
+				|| Areas.getResultadoAnaliseDeDados() == Areas.getResultadoTecnologiaDaInformacao()
+				|| Areas.getResultadoWebDesign() == Areas.getResultadoEcommerce()
+				|| Areas.getResultadoWebDesign() == Areas.getResultadoCienciaDaComputacao()
+				|| Areas.getResultadoWebDesign() == Areas.getResultadoTecnologiaDaInformacao()
+				|| Areas.getResultadoEcommerce() == Areas.getResultadoCienciaDaComputacao()
+				|| Areas.getResultadoEcommerce() == Areas.getResultadoTecnologiaDaInformacao()
+				|| Areas.getResultadoCienciaDaComputacao() == Areas.getResultadoTecnologiaDaInformacao()) {
+			
 
-//		LOG.info(Areas.getResultadoAnaliseDeDados());
-//		LOG.info(Areas.getResultadoCienciaDaComputacao());
-//		LOG.info(Areas.getResultadoTecnologiaDaInformacao());
-//		LOG.info(Areas.getResultadoEngenhariaDeSoftware());
-//		LOG.info(Areas.getResultadoWebDesign());
-//		LOG.info(Areas.getResultadoEcommerce());
+			LOG.info(Areas.getResultadoEngenhariaDeSoftware());
+			LOG.info(Areas.getResultadoAnaliseDeDados());
+			LOG.info(Areas.getResultadoWebDesign());
+			LOG.info(Areas.getResultadoEcommerce());
+			LOG.info(Areas.getResultadoCienciaDaComputacao());
+			LOG.info(Areas.getResultadoTecnologiaDaInformacao());
 
-		resultados.resultadosPersonalidades(resultadoEngenhariaDeSoftware, resultadoAnaliseDeDados, resultadoWebDesign,
-				resultadoEcommerce, resultadoCienciaDaComputacao, resultadoTecnologiaDaInformacao);
+			perguntasExtras.perguntasERespostasExtras();
 		}
+		resultados.resultadosPersonalidades();
 	}
 }

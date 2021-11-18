@@ -8,6 +8,15 @@ public class Areas {
 	private static int resultadoCienciaDaComputacao;
 	private static int resultadoTecnologiaDaInformacao;
 	private static int resultadoAnaliseDeDados;
+	private static int resultadoFinal;
+	
+	public static int getResultadoFinal() {
+		return resultadoFinal;
+	}
+	
+	public static void setResultadoFinal(int resultadoFinal) {
+		Areas.resultadoFinal = resultadoFinal;
+	}
 
 	public static int getResultadoEngenhariaDeSoftware() {
 		return resultadoEngenhariaDeSoftware;
